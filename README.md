@@ -13,7 +13,7 @@ The repository contains two folders:
 ## Related repositories & links
 
 - [CoV2RBDAb](https://cov2rbdab.github.io): the web interface of the database
-- [CoV2RBDAb.github.io](https://github.com/Cov2RBDAb/CoV2RBDAb.github.io)
+- [CoV2RBDAb.github.io](https://github.com/Cov2RBDAb/CoV2RBDAb.github.io): the source code of the web interface
 - [SQLite3-format database file](https://doi.org/10.5281/zenodo.17627592)
 
 ## Acknowledgment
